@@ -21,10 +21,14 @@ public class MainActivity extends AppCompatActivity {
     TextView relay;
     TextView jarak;
 
+    //variabel
+
     String nilaiJarak;
     String kondisiRelay;
     String kondisiSistem;
     DatabaseReference dbref;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
