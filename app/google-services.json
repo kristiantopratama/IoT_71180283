@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "345611434768",
+    "firebase_url": "https://sensorlampu-a94ba-default-rtdb.firebaseio.com",
+    "project_id": "sensorlampu-a94ba",
+    "storage_bucket": "sensorlampu-a94ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345611434768:android:63abbb3f700e168b6e4395",
+        "android_client_info": {
+          "package_name": "com.example.iot4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345611434768-q0p6kjak89prl0mphh0gcafj89g34c97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNKv39F3DLVHLWsHrL7zt2K8W5DIwPaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345611434768-q0p6kjak89prl0mphh0gcafj89g34c97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345611434768:android:b8b22799ee780c7f6e4395",
+        "android_client_info": {
+          "package_name": "com.example.mini_project4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345611434768-41eo58crqppbpobpjd20e7gp1rj1kf1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini_project4",
+            "certificate_hash": "202e4c7c844379af587c8bc27594807d9207807e"
+          }
+        },
+        {
+          "client_id": "345611434768-q0p6kjak89prl0mphh0gcafj89g34c97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNKv39F3DLVHLWsHrL7zt2K8W5DIwPaRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345611434768-q0p6kjak89prl0mphh0gcafj89g34c97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
